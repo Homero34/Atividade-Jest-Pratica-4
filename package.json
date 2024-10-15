@@ -1,0 +1,15 @@
+{
+  "name": "aluno",
+  "version": "1.0.0",
+  "description": "Aluno:Arthur Amorim da Silva\r Matricula:2324290115",
+  "main": "Aluno.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
